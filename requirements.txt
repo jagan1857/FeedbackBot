@@ -1,2 +1,2 @@
-pyrogram
+Pyrogram==2.0.30
 tgcrypto
